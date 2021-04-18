@@ -1,0 +1,7 @@
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\bin\Debug\ControleDeEquipamentos.ConsoleApp.exe.config
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\bin\Debug\ControleDeEquipamentos.ConsoleApp.exe
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\bin\Debug\ControleDeEquipamentos.ConsoleApp.pdb
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\obj\Debug\ControleDeEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\obj\Debug\ControleDeEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\obj\Debug\ControleDeEquipamentos.ConsoleApp.exe
+C:\Users\pedra\source\repos\ControleDeEquipamentos.ConsoleApp\ControleDeEquipamentos.ConsoleApp\obj\Debug\ControleDeEquipamentos.ConsoleApp.pdb
